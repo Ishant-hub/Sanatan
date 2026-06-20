@@ -1,8 +1,9 @@
 {
   "expo": {
-    "name": "divya",
+    "name": "Sanatan",
     "slug": "sanatan",
     "version": "1.0.0",
+    "newArchEnabled": false,
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -27,6 +28,9 @@
         "projectId": "8fa8c0cb-7711-47df-8615-102e2494b4fa"
       }
     },
-    "owner": "sanatan-dharma"
+    "owner": "sanatan-dharma",
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
